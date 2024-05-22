@@ -1,8 +1,7 @@
 ![logo](https://github.com/MuhammadShairaz/MuhammadShairaz/blob/main/baner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm MuhammadShairaz</h1> 
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align"right"alt="coding"width="400"scr="https://github.com/MuhammadShairaz/MuhammadShairaz/assets/162301732/ebf8c8e7-7991-436b-bf27-f34f6387bfbb)
-">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshairaz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshairaz" /> </p>
 
